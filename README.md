@@ -25,7 +25,9 @@ Este es un proyecto pequeño y agradable para practicar el manejo de las interac
 
 ### Screenshot
 
-![]()
+![image](https://github.com/AntonioDomRos/interactive-rating-component/assets/138612668/34594322-2cc5-4845-9393-057326a5b3b4)
+![image](https://github.com/AntonioDomRos/interactive-rating-component/assets/138612668/9078aab2-6009-49a2-9e52-4a21c9bb2109)
+
 
 ### Links
 
